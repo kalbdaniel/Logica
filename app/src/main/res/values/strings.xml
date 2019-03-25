@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="submit">Submit</string>
+    <string name="correct">Answers correct</string>
+    <string name="wrong">Answers false</string>
+</resources>
